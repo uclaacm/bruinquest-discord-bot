@@ -15,7 +15,7 @@ module.exports = {
   },
   sendgrid: {
     template_id: 'd-f2190ba3825945a79e24cf06b2fd984c',
-    sender: 'acm@cs.ucla.edu',
+    sender: 'acm@ucla.edu',
   },
   default_msgs: {
     welcome: `
