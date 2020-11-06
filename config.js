@@ -14,7 +14,7 @@ module.exports = {
     alumni_role_name: 'officers2',
   },
   sendgrid: {
-    template_id: 'd-f2190ba3825945a79e24cf06b2fd984c',
+    template_id: 'd-3195c563d0a341f8af8c174700fe2b22',
     sender: 'acm@ucla.edu',
   },
   default_msgs: {
