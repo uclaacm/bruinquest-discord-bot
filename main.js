@@ -80,7 +80,7 @@ async function iam(userid, email, nickname, affiliation) {
     from: config.sendgrid.sender,
     templateId: config.sendgrid.template_id,
     asm: {
-      group_id: 15801,
+      group_id: 14627,
     },
     dynamic_template_data: {
       nickname: nickname,
